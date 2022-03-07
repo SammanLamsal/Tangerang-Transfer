@@ -58,3 +58,5 @@ def openStoyGui():
     usernameTxt = canvas1.create_text(200, 700, anchor = CENTER, text = "INPUT SPOTIFY USERNAME")
 
     root1.mainloop()
+
+    

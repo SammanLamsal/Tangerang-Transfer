@@ -18,3 +18,4 @@ if __name__ == "__main__":
     stoyButton = tk.Button(canvas, text = "TRANSFER SPOTIFY SONGS TO YOUTUBE", command = STOY.openStoyGui) 
     stoyButton.place(x = 75, y = 525)
     root.mainloop()
+    
